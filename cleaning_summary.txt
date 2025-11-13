@@ -1,0 +1,12 @@
+
+SUMMARY OF CLEANING - Medical Appointment No Shows
+
+1. Removed duplicate records.
+2. Renamed columns to lowercase and replaced spaces with underscores.
+3. Converted ScheduledDay and AppointmentDay to datetime format.
+4. Standardized text fields (Gender and No-show).
+5. Filled missing values (if any).
+6. Removed invalid ages (negative values).
+7. Converted numerical columns to integer types.
+8. Capped age above 100.
+9. Saved cleaned dataset to 'cleaned_medical_appointments.csv'
