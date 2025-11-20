@@ -1,6 +1,7 @@
 🧹 Elevate Labs - Task 1: Data Cleaning and Preprocessing
-👩‍💻 Author: Layeba Sayyed
+
 💼 Internship: Data Analyst Intern at Elevate Labs
+
 📘 Overview
 This project is part of Elevate Labs Data Analyst Internship – Task 1, focused on data cleaning and preprocessing using Python (Pandas, NumPy).
 The goal is to transform a raw dataset into a clean, well-structured format ready for analysis.
